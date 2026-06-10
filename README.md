@@ -107,12 +107,6 @@ Typical splits used in modeling:
 Train : 70%
 Test  : 30%
 
-During project discussions or model reviews, business teams may ask questions such as:
-
-"Why didn’t you use an 80–20 split?"
-
-These discussions help ensure the modeling approach is aligned with business requirements and technical standards.
-
 🤖 Model Training
 
 Multiple machine learning models were tested:
